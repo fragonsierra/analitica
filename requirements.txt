@@ -8,3 +8,4 @@ scipy
 gunicorn
 scikit-learn
 plotly.express
+openpyxl

@@ -1,0 +1,10 @@
+dash
+dash_core_components
+dash.dependencies
+pandas
+plotly.graph_objects
+sklearn.linear_model
+plotly.express
+numpy
+dash_table
+scipy.stats

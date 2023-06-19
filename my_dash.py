@@ -207,4 +207,4 @@ def update_table(region):
 
 # Ejecutar la aplicación
 if __name__ == '__main__':
-    app.run_server(host='10.4.1.50', debug=True)
+    app.run_server(debug=True)

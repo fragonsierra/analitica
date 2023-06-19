@@ -24,6 +24,7 @@ muestra["Region"] = muestra['Country or Area']
 describe = pd.DataFrame(columns=["Region", "Mean", "Median", "Std", "IQR", "Min", "Max", "Shapiro-Wilk W", "Shapiro-Wilk p"])
 
 app = dash.Dash(__name__)
+server = app.server
 
 # Definir el layout de la aplicación
 app.layout = html.Div([

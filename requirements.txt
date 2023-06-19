@@ -2,7 +2,6 @@ dash
 dash_core_components
 pandas
 plotly
-sklearn
 numpy
 dash_table
 scipy
